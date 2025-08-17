@@ -18,13 +18,25 @@ sudo dnf install bottles
 
 ### install dependecies
 we need to install webview2
+
 ![](./bottles04.png)
+
 ![](./bottles05.png)
 
-### configure backwards compatibility
+### configure backwards compatibility for webview2
+make sure, this is really set to "Windows 7"
 ![](./bottles06.png)
+
 ![](./bottles07.png)
 
 ### install artillery studio
 ![](./bottles02.png)
+
 ![](./bottles03.png)
+
+## run artillery studio
+![](./bottles10.png)
+
+there it is:
+
+![](./bottles11.png)
