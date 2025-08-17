@@ -6,7 +6,7 @@ we still need to get it running to actually use their new line of printers.
 there it is: https://studio.ota.artillery3d.com/studio/download/windows/latest
 
 ## install emulator
-with a package manager of your choice install "images/bottles" ( https://useimages/bottles.com/ ).
+with a package manager of your choice install "bottles" ( https://useimages/bottles.com/ ).
 you can also use plain "wine", but images/bottles sits on top of it and i way more userfriendly.
 ```
 sudo dnf install images/bottles
