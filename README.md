@@ -14,17 +14,17 @@ sudo dnf install bottles
 
 ## installing studio in a bottle
 ### create a bottle
-![](./bottles01.jpg)
+![](./bottles01.png)
 
 ### install dependecies
 we need to install webview2
-![](./bottles04.jpg)
-![](./bottles05.jpg)
+![](./bottles04.png)
+![](./bottles05.png)
 
 ### configure backwards compatibility
-![](./bottles06.jpg)
-![](./bottles07.jpg)
+![](./bottles06.png)
+![](./bottles07.png)
 
 ### install artillery studio
-![](./bottles02.jpg)
-![](./bottles03.jpg)
+![](./bottles02.png)
+![](./bottles03.png)
