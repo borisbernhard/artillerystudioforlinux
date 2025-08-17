@@ -6,37 +6,37 @@ we still need to get it running to actually use their new line of printers.
 there is is: https://studio.ota.artillery3d.com/studio/download/windows/latest
 
 ## install emulator
-with a package manager of your choice install "bottles" ( https://usebottles.com/ ).
-you can also use plain "wine", but bottles sits on top of it and i way more userfriendly.
+with a package manager of your choice install "images/bottles" ( https://useimages/bottles.com/ ).
+you can also use plain "wine", but images/bottles sits on top of it and i way more userfriendly.
 ```
-sudo dnf install bottles
+sudo dnf install images/bottles
 ```
 
 ## installing studio in a bottle
 ### create a bottle
-![](./bottles01.png)
+![](./images/bottles01.png)
 
 ### install dependecies
 we need to install webview2
 
-![](./bottles04.png)
+![](./images/bottles04.png)
 
-![](./bottles05.png)
+![](./images/bottles05.png)
 
 ### configure backwards compatibility for webview2
 make sure, this is really set to "Windows 7"
-![](./bottles06.png)
+![](./images/bottles06.png)
 
-![](./bottles07.png)
+![](./images/bottles07.png)
 
 ### install artillery studio
-![](./bottles02.png)
+![](./images/bottles02.png)
 
-![](./bottles03.png)
+![](./images/bottles03.png)
 
 ## run artillery studio
-![](./bottles10.png)
+![](./images/bottles10.png)
 
 there it is:
 
-![](./bottles11.png)
+![](./images/bottles11.png)
