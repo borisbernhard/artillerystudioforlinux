@@ -9,7 +9,7 @@ there it is: https://studio.ota.artillery3d.com/studio/download/windows/latest
 with a package manager of your choice install "bottles" ( https://useimages/bottles.com/ ).
 you can also use plain "wine", but images/bottles sits on top of it and is more userfriendly.
 ```
-sudo dnf install images/bottles
+sudo dnf install bottles
 ```
 
 ## installing studio in a bottle
